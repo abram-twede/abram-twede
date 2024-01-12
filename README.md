@@ -1,4 +1,4 @@
-### Hi there 👋
+JavaScript TypeScript CSS3 HTML5 Python Ruby React Next JS Rails NodeJS Express.js MongoDB Postgres Supabase Firebase NPM TailwindCSS Bootstrap MUI Styled Components
 
 <!--
 **abram-twede/abram-twede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
