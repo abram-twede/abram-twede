@@ -13,7 +13,7 @@
 - Frameworks: React, Node.js
 
 ## 📫 How to Reach Me
-- Email: [ajtwede@gmail.com](Your email address)
+- Email: [ajtwede@gmail.com]
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abram-twede&show_icons=true&theme=radical)
