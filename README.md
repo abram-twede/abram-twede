@@ -1,5 +1,5 @@
 
-# Hi there, I'm Abram 👋
+# Hi there, I'm Abram 
 
 ## 🚀 About Me
 
