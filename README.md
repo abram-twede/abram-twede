@@ -9,7 +9,7 @@
 
 
 ## 🛠 Skills
-- Languages: Python, Java, Javascript, Html, Css
+- Languages: Python, Java, JavaScript, HTML, CSS, C++
 - Frameworks: React, Node.js
 
 ## 📫 How to Reach Me
