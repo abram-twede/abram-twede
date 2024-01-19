@@ -1,16 +1,21 @@
 
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**abram-twede/abram-twede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 I am a high school student from Colorado with a passion for technology and innovation. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I love coding, building projects, and am constantly seeking to learn and explore new horizons in the tech space.
+
+
+## 🛠 Skills
+- Languages: Python, Java, Javascript, Html, Css
+- Frameworks: React, Node.js
+
+## 📫 How to Reach Me
+- Email: [ajtwede@gmail.com](Your email address)
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
