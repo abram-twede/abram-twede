@@ -3,9 +3,9 @@
 
 ## 🚀 About Me
 
-🎓 I am a high school student from Colorado with a passion for technology and innovation. 
+I am a high school student from Colorado with a passion for technology and innovation. 
 
-👨‍💻 I love coding, building projects, and am constantly seeking to learn and explore new horizons in the tech space.
+I love coding, building projects, and am constantly seeking to learn.
 
 
 ## 🛠 Skills
